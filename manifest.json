@@ -4,8 +4,8 @@
 	"version": "2.0.51",
 	"minAppVersion": "1.0.0",
 	"description": "Create Cornell-style markdown notes with dual-column editing in Obsidian.",
-	"author": "mgmeyers",
-	"authorUrl": "https://github.com/mgmeyers/obsidian-kanban",
+	"author": "crab-cat",
+	"authorUrl": "https://github.com/crab-cat/obsidian-cornell",
 	"helpUrl": "https://publish.obsidian.md/kanban/Obsidian+Kanban+Plugin",
 	"isDesktopOnly": false
 }
