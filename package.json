@@ -1,7 +1,7 @@
 {
-  "name": "obsidian-kanban",
-  "version": "2.0.51",
-  "description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+  "name": "obsidian-cornell",
+  "version": "1.0.0",
+  "description": "A Cornell-style note plugin for Obsidian with dual-column editing.",
   "main": "main.js",
   "scripts": {
     "typecheck": "tsc --noemit",
